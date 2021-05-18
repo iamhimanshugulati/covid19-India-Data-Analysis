@@ -6,7 +6,7 @@
 - The main goal of this note book is the analysis and predict the number of new cases for the country India in future days.  
 - Obtain data insights using pandas.
 - Cleaning the data with appropriate techniques.
-- Performing epxloratory data analysis (EDA) on the data to get better insights.
+- Performing exploratory data analysis (EDA) on the data to get better insights.
 - Modeling the data with various model with appropriate feature selection techniques.
 ## We also try to link this analysis with news regarding covid19 in India.
 
